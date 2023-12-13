@@ -5,7 +5,7 @@
 - <b>Full Stack Web App - Frontend (Javascript, CSS, React.js Components)</b>
   - [E-commerce website](https://github.com/flztjl/mini-capstone-frontend)
 - <b>Full Stack Web App - Backend (Ruby on Rails, Ruby, Components)</b>
-  - [Image Analysis Middleware](https://github.com/flztjl/mini-capstone-api) 
+  - [E-commerce API backend](https://github.com/flztjl/mini-capstone-api) 
 
 <h2>📺 Actualize Full Stack Web Developer Bootcamp</h2>
 
