@@ -26,7 +26,9 @@
     <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Product%20detail.png">
     
 - <b>E-Commerce Website - Backend (Ruby on Rails, Ruby, Components) - [Github](https://github.com/flztjl/mini-capstone-api)</b>
-  - Admin account is able to control inventory
+  - Buil up multiple-to-multiple relations between products, suppliers, and images.
+  - Use JWT for secure account control.
+  - Admin account can control inventory
  
     <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Inventory%20control.png">
 
