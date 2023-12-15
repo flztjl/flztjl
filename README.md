@@ -1,19 +1,34 @@
 <h1>Hi, I'm Lei! <br/><a href="https://github.com/flztjl">PhD student, </a><a href="https://www.linkedin.com/in/lei-jia/">Open for SDE jobs</a>.
 
-<h2>👨‍💻 Software Development Project:</h2>
-
-- <b>Full Stack Web App - Frontend (Javascript, CSS, React.js Components)</b>
-  - [E-commerce website](https://github.com/flztjl/mini-capstone-frontend)
-- <b>Full Stack Web App - Backend (Ruby on Rails, Ruby, Components)</b>
-  - [E-commerce API backend](https://github.com/flztjl/mini-capstone-api) 
-
-<h2>📺 Actualize Full Stack Web Developer Bootcamp</h2>
+<h2>Actualize Full Stack Web Developer Bootcamp</h2>
 
 - Backend RESTful API using MVC architecture built with Ruby on Rails.
 
--	Frontend single page application built with npm, webpack, React.js, Bootstrap.
+-	Frontend single page application built with NPM, Webpack, React.js, and Bootstrap.
 
 -	Secure authenticated user profiles using JSON web tokens.
+  
+<h2>Software Development Project:</h2>
+
+- <b>E-Commerce Website - Frontend (Javascript, CSS, React.js Components) - [Github](https://github.com/flztjl/mini-capstone-frontend)</b>
+  - Home page
+    
+    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Home.png">
+
+
+  - Customers sign up and log in
+    
+    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Signup.png">
+
+ 
+  - Browse the product details
+    
+    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Product%20detail.png">
+    
+- <b>E-Commerce Website - Backend (Ruby on Rails, Ruby, Components) - [Github](https://github.com/flztjl/mini-capstone-api)</b>
+  - Admin account is able to control inventory
+ 
+    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Inventory%20control.png">
 
 <h2> 🤳 Connect with me:</h2>
 
