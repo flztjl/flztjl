@@ -4,7 +4,7 @@
 
 - Backend RESTful API using MVC architecture built with Ruby on Rails.
 
--	Frontend single page application built with NPM, Webpack, React.js, and Bootstrap.
+-	Frontend multiple pages application built with NPM, Webpack, React.js, and Bootstrap.
 
 -	Secure authenticated user profiles using JSON web tokens.
   
@@ -26,7 +26,7 @@
     <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Product%20detail.png">
     
 - <b>E-Commerce Website - Backend (Ruby on Rails, Ruby, Components) - [Github](https://github.com/flztjl/mini-capstone-api)</b>
-  - Buil up multiple-to-multiple relations between products, suppliers, and images.
+  - Build up multiple mapping relations between products, suppliers, and images.
   - Use JWT for secure account control.
   - Admin account can control inventory
  
