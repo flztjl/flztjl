@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lei-jia/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/flztjl)
 
-**PhD (expect in Dec 2024) | Open for Machine Learning & Software Development Engineer Positions**
+**PhD (Expect in Dec 2024) | Open for Machine Learning & Software Development Engineer Positions**
 
 ---
 
