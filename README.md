@@ -1,54 +1,56 @@
-<h1>Hi, I'm Lei! <br/><a href="https://github.com/flztjl">PhD student, </a><a href="https://www.linkedin.com/in/lei-jia/">Open for SDE jobs</a>.
+# Hi, I'm Lei!
 
-<h2>Actualize Full Stack Web Developer Bootcamp</h2>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lei-jia/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/flztjl)
 
-- Backend RESTful API using MVC architecture built with Ruby on Rails.
+**PhD Student | Open for Software Development Engineer (SDE) Positions**
 
--	Frontend multiple pages application built with NPM, Webpack, React.js, and Bootstrap.
+---
 
--	Secure authenticated user profiles using JSON web tokens.
-  
-<h2>Software Development Project:</h2>
+## Projects
 
-- <b>E-Commerce Website - Frontend (Javascript, CSS, React.js Components) - [Github](https://github.com/flztjl/mini-capstone-frontend)</b>
-  - Home page
-    
-    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Home.png">
+### 1. NLP Image Caption Auto Generation
+- **Description**: A project focused on generating image captions using natural language processing techniques
+- **Tech Stack**: Python, Deep Learning, NLP  
+- **[GitHub Repository](https://github.com/flztjl/NLP-Image-caption-auto-generation)**  
+  <img src="https://github.com/user-attachments/assets/85de7776-aa72-40fa-9ab4-a2f8feb53004" alt="NLP Project" width="500">
 
 
-  - Customers sign up and log in
-    
-    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Signup.png">
+### 2. E-Commerce Website
 
- 
-  - Browse the product details
-    
-    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Product%20detail.png">
-    
-- <b>E-Commerce Website - Backend (Ruby on Rails, Ruby, Components) - [Github](https://github.com/flztjl/mini-capstone-api)</b>
-  - Build up multiple mapping relations between products, suppliers, and images.
-  - Use JWT for secure account control.
-  - Admin account can control inventory
- 
-    <img width="640" alt="Products" src="https://github.com/flztjl/flztjl/blob/main/Inventory%20control.png">
+#### Frontend
+- **Tech Stack**: JavaScript, CSS, React.js
+- **Features**: 
+  - Home page  
+    <img src="https://github.com/flztjl/flztjl/blob/main/Home.png" alt="Home Page" width="500">
+  - Customer sign-up and login  
+    <img src="https://github.com/flztjl/flztjl/blob/main/Signup.png" alt="Sign Up" width="500">
+  - Product details browsing  
+    <img src="https://github.com/flztjl/flztjl/blob/main/Product%20detail.png" alt="Product Detail" width="500">
+  - Order management
 
-<h2> 🤳 Connect with me:</h2>
+- **[Frontend Repository](https://github.com/flztjl/mini-capstone-frontend)**
 
-[<img align="left" alt="Lei Jia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+#### Backend
+- **Tech Stack**: Ruby on Rails, Ruby
+- **Features**:
+  - Mapping relations between products, suppliers, and images
+  - JWT for secure account control
+  - Inventory control for admin accounts
 
-[linkedin]: https://linkedin.com/in/lei-jia
+<img src="https://github.com/flztjl/flztjl/blob/main/Inventory%20control.png" alt="NLP Project" width="500">
 
-<!--
-**flztjl/flztjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Backend Repository](https://github.com/flztjl/mini-capstone-api)**
 
-Here are some ideas to get you started:
+### 3. Actualize Full Stack Web Developer Bootcamp
+- **Description**: Comprehensive full-stack development experience.
+- **Backend**: RESTful API using MVC architecture with Ruby on Rails.
+- **Frontend**: Multiple page applications built with NPM, Webpack, React.js, and Bootstrap.
+- **Security**: Implemented secure authenticated user profiles using JSON web tokens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤳 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lei-jia)
+
+---
